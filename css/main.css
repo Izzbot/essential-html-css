@@ -113,16 +113,11 @@ section.menu dd {
 }
 
 section.about {
-    padding-bottom: 1em;
-    padding-left: 1em;
-	padding-right: 1em;    
+    padding: 1em;
 }
 
 footer {
-	padding-top: 2em;
-    padding-bottom: 1em;
-    padding-left: 1em;
-	padding-right: 1em;    
+    padding: 1em;
     background-color: #FC892F;
     border-top: 5px;
     border-top-color: #EC791F;
